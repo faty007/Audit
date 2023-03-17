@@ -1,5 +1,5 @@
 # Audit
-LIZA COIN (LZC) - 💠 [AUDIT RATE TRATE](https://tcpcoins.net/uploads/s/7/a/g/7agy4blgatdj/file/m59f7vRT.pdf?preview=1)
+LIZA COIN (LZC) - 💠 [AUDIT RATE TRATE](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
 
 ![Малый баннер](https://ukit.com/uploads/s/l/4/j/l4j8wtlqendh/img/full_HRB9jARg.jpg)
 ![Малый баннер](https://ukit.com/uploads/s/l/4/j/l4j8wtlqendh/img/full_0tLad4xf.jpg)
