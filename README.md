@@ -1,8 +1,9 @@
 # Audit
-LIZA COIN (LZC) - 💠 [AUDIT BlockSafu](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
+LIZA COIN (LZC) - 💠 [AUDIT BlockSafu](https://blocksafu.com/audit/0xA6550996403407481f2748a793aE40dA3b369F6d)
 
 ![Малый баннер](https://ukit.com/uploads/s/l/4/j/l4j8wtlqendh/img/full_RqIhzqNr.png)
 
+![Малый баннер](https://tcpcoins.net/uploads/s/7/a/g/7agy4blgatdj/file/11eOu4b7.png?preview=1)
 
 - 👀 Disclaimer
 - BlockSAFU has completed this report to provide a summary of the Smart Contract functions, and any security, dependency, or cybersecurity vulnerabilities. This is often a constrained report on our discoveries based on our investigation and understanding of the current programming versions as of this report’s date. To understand the full scope of our analysis, it is vital for you to at the date of this report. To understand the full scope of our analysis, you need to review the complete report. Although we have done our best in conducting our investigation and creating this report, it is vital to note that you should not depend on this report and cannot make any claim against BlockSAFU or its Subsidiaries and Team members on the premise of what has or has not been included in the report. Please remember to conduct your independent examinations before making any investment choices. We do not provide investment advice or in any way claim to determine if the project will be successful or not.
